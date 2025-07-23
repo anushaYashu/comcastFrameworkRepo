@@ -8,4 +8,8 @@ public void Tc1()
 {
 	System.out.println("testcase executed");
 }
+public void Tc2()
+{
+	System.out.println("testcase2 executed");
+}
 }

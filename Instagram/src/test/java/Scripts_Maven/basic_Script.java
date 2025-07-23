@@ -12,8 +12,5 @@ public void Tc2()
 {
 	System.out.println("testcase2 executed");
 }
-public void Tc3()
-{
-	System.out.println("testcase2 executed");
-}
+
 }
